@@ -1,0 +1,11 @@
+Material,constante_dielectrica,capacitancia,carga_placasuperior(10e13),energia_almacenada(10e13)
+Papel,1.5,0.07,9.95,7.46
+Cera,1.8,0.08,11.94,8.96
+Parafina,2.1,0.09,13.93,10.45
+Resina,2.5,0.11,16.58,12.44
+Goma laca,3.1,0.14,20.56,15.42
+Nailon,3.4,0.15,22.55,16.92
+Cuarzo fundido,3.8,0.17,25.21,18.91
+Porcelana,4.4,0.19,29.19,21.89
+Aceite de ricino,4.6,0.2,30.51,22.89
+Baquelita,5,0.22,33.17,24.88
