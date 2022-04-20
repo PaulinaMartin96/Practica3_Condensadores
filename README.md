@@ -1,6 +1,6 @@
 # Practica3_Condensadores
 
-Universidad Nacional Autónoma de México
+Universidad Nacional Autónoma de México \\
 Facultad de Ciencias
 Laboratorio de Electromagnetismo. Semestre 2022-2.
 Paula Irán Diego Villegas
