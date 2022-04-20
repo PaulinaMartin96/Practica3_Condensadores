@@ -10,4 +10,4 @@ Laboratorio de Electromagnetismo. Semestre 2022-2. \
 
 Este repositorio presenta el código y las bases de datos utilizadas para llevar a cabo la Práctica 3. Condiciones y factores que influyen en el funcionamiento de condensadores planos del Laboratorio de Electromagnetismo.
 
-El código presentado en el archivo * * fue elaborado por 
+El código presentado en el archivo **medidor_de_capacitancia_con_arduino.ino** fue elaborado por 
