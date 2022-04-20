@@ -2,7 +2,7 @@
 
 Universidad Nacional Autónoma de México \
 Facultad de Ciencias \
-Laboratorio de Electromagnetismo. Semestre 2022-2. \
+Laboratorio de Electromagnetismo. Semestre 2022-2. 
 
 **Autores**
 - Paula Irán Diego Villegas
